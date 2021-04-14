@@ -1,0 +1,244 @@
+@charset "utf-8";
+
+#menu>div{
+	text-align:center;
+}
+
+#logo{
+	width:100px;
+	background-color:rgb(190, 221, 233);
+	font-size:small;
+	text-align:center;
+	height:60px;
+}
+
+#chotech{
+	color:cornflowerblue;
+}
+
+#menuButton{
+	position:absolute;
+	top:0;
+	left:120px;
+	right:140px;
+}
+
+#menuButton>div{
+	margin:10px;
+	width:80px;
+	border:solid 1px;
+	background:rgb(235, 233, 233);
+	height:40px;
+	float:left;
+}
+
+#account div{
+	border:solid 1px;
+	background:rgb(235, 233, 233);
+	height:30px;
+	width:100px;
+	margin:2px;
+}
+
+#contact{
+	position:absolute;
+	top:0;
+	right:104px;
+}
+
+#signin{
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+#register{
+	position:absolute;
+	top:32px;
+	right:0;
+}
+
+#explain{
+	border:solid 1px green;
+	text-align:center;
+	clear:both;
+}
+
+#content{
+	color:white;
+	padding-left:5%;
+}
+
+#content>div{
+	width:40%;
+	height:80px;
+	margin:10px;
+	float:left;
+	text-align:center;
+}
+
+#knowledge{
+	background:rgb(0, 174, 255);
+}
+
+#consulation{
+	background:rgb(255, 189, 128);
+}
+
+#comingsoon{
+	background:black;
+	clear:right;
+}
+
+#small{
+	display:inline-block;
+	font-size:small;
+	transform:scale(0.8);
+	clear:both;
+}
+
+#overview{
+	border:solid 1px blue;
+	margin-bottom:10px;
+}
+
+.ad{
+	color:white;
+	font-size:xx-large;
+	background:rgb(123, 40, 156);
+	text-align:center;
+	margin-bottom:2px;
+}
+
+#topAd{
+	height:80px;
+}
+
+#knowledgeAdTop{
+	height:80px;
+}
+
+#knowledgeAdBottom{
+	height:120px;
+}
+
+#consulationAdTop{
+	height:250px;
+	margin-bottom:40px;
+}
+
+#consulationAdBottom{
+	height:400px;
+}
+
+#footer>div{
+	display:inline-block;
+}
+
+#footer>div:not(#logo){
+	border:solid 1px grey;
+	margin-left:10px;
+}
+
+#sns{
+	float:right;
+}
+
+#main{
+	width:78%;
+	display:inline-block;
+}
+
+.knowledge>div{
+	background:grey;
+	text-align:center;
+	color:white;
+}
+
+#question{
+	height:80px;
+	margin-bottom:2px;
+}
+
+#answer{
+	height:200px;
+	margin-bottom:2px;
+}
+
+#hushtag{
+	height:120px;
+	margin-bottom:2px;
+}
+
+#side{
+	width:20%;
+	display:inline-block;
+}
+
+#knowledgeTitle{
+	background:rgb(0, 174, 255);
+	height:60px;
+	color:white;
+	position:absolute;
+	top:0;
+	left:120px;
+	right:110px;
+}
+
+#searchSize{
+	height:40px;
+	width:90%;
+}
+
+#selectSize{
+	height:40px;
+	width:43.5%;
+}
+
+#qaRank{
+	height:160px;
+	margin-bottom:2px;
+	background:grey;
+}
+
+#answerRank{
+	height:120px;
+	margin-bottom:2px;
+	background:grey;
+}
+
+#consulationTitle{
+	background:rgb(255, 189, 128);
+	height:60px;
+	color:white;
+	position:absolute;
+	top:0;
+	left:120px;
+	right:110px;
+	border:solid 1px black;
+}
+
+.consulation>div{
+	text-align:center;
+	border:solid 1px;
+}
+
+#clabolator{
+	background:rgb(190, 221, 233);
+	height:80px;
+	margin-top:2px;
+	margin-bottom:2px;
+}
+
+#example{
+	text-align:left;
+	font-size:small;
+	margin-bottom:40px;
+}
+
+#concrete{
+	background:rgb(52, 109, 214);
+	height:400px;
+	color:white;
+	font-size:40px;
+}
